@@ -4,6 +4,8 @@
 ### In this version, the model is run for only 2 epochs, The `Macro-averaged F1 Score is 0.76`
 ### Download the radarscenes dataset at: `https://radar-scenes.com/`
 
+#### Helping content on github: `https://github.com/TUMFTM/RadarGNN/tree/main` and `https://github.com/XZLeo/Radar-Detection-with-Deep-Learning/tree/main`
+
 # Summary of Radar Point Cloud Processing and Classification Project
 
 ## Overview
